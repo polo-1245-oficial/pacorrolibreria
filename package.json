@@ -1,0 +1,12 @@
+{
+  "name": "pacorrolibreria",
+  "version": "1.0.0",
+  "description": "doy pena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "polo_1245 <polo@polos.systems> (https://polo1245.com/)",
+  "license": "ISC"
+}
